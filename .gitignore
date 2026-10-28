@@ -1,0 +1,5 @@
+build/
+build-*/
+# The game data (data/README.md says what goes there): never in the repository
+/data/*
+!/data/README.md
